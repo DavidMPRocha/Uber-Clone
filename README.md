@@ -17,7 +17,7 @@ GIF           |  Screen Home          |  Screen Map          |  Ride Options
 
 ## Technologies
 
- - [React Native](https://reactnative.dev)
+ - [React Native (expo)](https://reactnative.dev)
  - [React Navigation](https://reactnavigation.org/)
  - [React Native Elements](https://reactnativeelements.com/)
  - [Redux](https://redux.js.org/)
