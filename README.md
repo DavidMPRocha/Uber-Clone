@@ -51,6 +51,11 @@ Or
   yarn
 ```
 
+Create file .env
+```bash
+  GOOGLE_MAPS_APIKEY=NEW_APIKEY
+```
+
 Start project
 
 ```bash
