@@ -6,7 +6,6 @@
 
 Build the UBER CLONE with REACT NATIVE
 
-
 ## Demo
 
 GIF           |  Screen Home          |  Screen Map          |  Ride Options
