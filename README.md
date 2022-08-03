@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/33318630/180867350-a22601db-d689-41cb-9629-942eea48445f.png" width="500" />
 
 
-
 # Uber Clone
 
 Build the UBER CLONE with REACT NATIVE
